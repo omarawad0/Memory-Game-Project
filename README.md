@@ -15,4 +15,4 @@ The stars rating depends on the number of moves:
 The game ends once all cards have been correctly matched. The player could restart the game at any time by clicking on the restart icon.
 
 ## Resources
-[Shuffle function from] (http://stackoverflow.com/a/2450976)
+Shuffle function from [StackOverFlow] (http://stackoverflow.com/a/2450976)
