@@ -16,4 +16,3 @@ The game ends once all cards have been correctly matched. The player could resta
 
 ## Resources
 [Shuffle function from] (http://stackoverflow.com/a/2450976)
-[icons from] (https://fontawesome.com/v4.7.0/icons/)
