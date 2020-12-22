@@ -15,6 +15,7 @@ The stars rating depends on the number of moves:
 The game ends once all cards have been correctly matched. The player could restart the game at any time by clicking on the restart icon.
 
 ## Resources
+- The game [Memory Game](https://omarawad0.github.io/Memory-Game-Project/).
 - Shuffle function from [StackOverFlow](http://stackoverflow.com/a/2450976).
 - Icons from [Font Awesome](https://fontawesome.com/v4.7.0/icons/).
 
